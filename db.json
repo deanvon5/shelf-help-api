@@ -40,6 +40,30 @@
             "coverImg":"5.jpg",
             "blurb":"With Enter the Kettlebell! Pavel delivers a significant upgrade to his original landmark work, The Russian Kettlebell Challenge. Drawing on five years of developing and leading the world's first and premiere kettlebell instructor certification program, and after spending five years of additional research into what really works for dramatic results with the kettlebell-we have Enter the Kettlebell!Pavel lays out a foolproof master system that guarantees you success-if you simply follow the commands! . Develop all-purpose strength-to easily handle the toughest and most unexpected demand.. Maximize staying power-because the last round decides all. Forge a fighter's physique-because the form must follow the functionEnter the kettlebell!-and follow the plan:1. The New RKC Program MinimumWith just two kettlebell exercises, takes you from raw newbie to solid contender-well-conditioned, flexible, resilient and muscular in all the right places.2. The RKC Rite of Passage Jumps you to the next level of physical excellence with Pavel's proven RKC formula for exceptional strength and conditioning. 3. Become a Man Among MenPropels you to a Special Forces level of conditioning."
         }
+
+    ],
+    "coffee":[
+            {
+        "id": 1,
+        "description": "Americano",
+        "price": 49.99
+    },
+    {
+        "id": 2,
+        "description": "Cappucino",
+        "price": 59.99
+    },
+    {
+        "id": 3,
+        "description": "Latte",
+        "price": 69.99
+    },
+    {
+        "id": 4,
+        "description": "Espresso",
+        "price": 39.99
+    }
+
     ]
 }
 
